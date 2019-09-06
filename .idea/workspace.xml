@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bac687e-61e9-45e2-ba4d-7282d514cb81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Code-Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATC/practise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Air-Mobility/cloud_kitchen_trajectory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aircraft-Path-Optimization" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoencoder/PCA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoencoder/VAE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoencoder/autoencoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoencoder/convoluted_VAE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoencoder/roads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoencoder/selfdrive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autoencoder/vae_mlp/vaeblog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingInterviews/interview1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computational-Modelling/FEM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computational-Modelling/optimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computational-Modelling/order_accuracy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiagent-Systems/mothership.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiagent-Systems/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neuro-Evolution" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orbital-Mechanics-Optimization" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDE/fourier.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Signals/CFT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Signals/DFT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Signals/fourier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestAnalysisAndSimulation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thermal-Pictures-Recognition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trading/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trafficlanding" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Air-Mobility/cloud_kitchen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Air-Mobility/cloud_kitchen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aircraft-Path-Optimization/.idea/Aircraft-Path-Optimization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aircraft-Path-Optimization/.idea/Aircraft-Path-Optimization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aircraft-Path-Optimization/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aircraft-Path-Optimization/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aircraft-Path-Optimization/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aircraft-Path-Optimization/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aircraft-Path-Optimization/A_star.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aircraft-Path-Optimization/A_star.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aircraft-Path-Optimization/p_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aircraft-Path-Optimization/p_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Orbital-Mechanics-Optimization/multibodySimulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Orbital-Mechanics-Optimization/multibodySimulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Orbital-Mechanics-Optimization/orbitalOptimization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Orbital-Mechanics-Optimization/orbitalOptimization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAnalysisAndSimulation/anova.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestAnalysisAndSimulation/anova.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAnalysisAndSimulation/frequency_domain.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestAnalysisAndSimulation/frequency_domain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAnalysisAndSimulation/visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestAnalysisAndSimulation/visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAnalysisAndSimulation/visual_anova_km.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess-AI/pieces.py" beforeDir="false" afterPath="$PROJECT_DIR$/chess-AI/pieces.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Autoencoder/roads.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="16" />
+              <folding>
+                <element signature="e#48#121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Air-Mobility/cloud_kitchen_trajectory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6239">
+              <caret line="367" column="40" selection-start-line="367" selection-end-line="368" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/va-sampler-master/analytics_server/va_mnist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="24" column="58" lean-forward="true" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/va-sampler-master/analytics_server/va_fashion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="712">
+              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+              <folding>
+                <element signature="e#532#542#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Autoencoder/convoluted_VAE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-731">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../SID DrW/Documents/Code-Projects/TestAnalysisAndSimulation/frequency_domain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2334">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Autoencoder/VAE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Computational-Modelling/FEM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/BVAE-tf-master/bvae/ae.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+              <folding>
+                <element signature="e#91#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Autoencoder/vae_mlp/vaeblog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="29" column="54" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xs</find>
+      <find>plotte</find>
+      <find>pl</find>
+      <find>rate</find>
+      <find>steps</find>
+      <find>z_sampl</find>
+      <find>y_test</find>
+      <find>width</find>
+      <find>height</find>
+      <find>pca</find>
+      <find>784</find>
+      <find>compon</find>
+      <find>pca</find>
+      <find>3d</find>
+      <find>eigen</find>
+      <find>gr</find>
+      <find>samplin</find>
+      <find>z_mean</find>
+      <find>data</find>
+      <find>sample</find>
+      <find>matplo</find>
+      <find>sampl</find>
+      <find>sorting</find>
+      <find>cir</find>
+      <find>loss</find>
+      <find>obje</find>
+      <find>lamb</find>
+      <find>random_normal</find>
+      <find>decoded</find>
+      <find>squa</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/chessAI/minmaxsearch.py" />
+        <option value="$PROJECT_DIR$/chessAI/pieces.py" />
+        <option value="$PROJECT_DIR$/chessAI/chessboard.py" />
+        <option value="$USER_HOME$/Downloads/time_domain_control.py" />
+        <option value="$PROJECT_DIR$/TestAnalysisAndSimulation/boxplots.py" />
+        <option value="$PROJECT_DIR$/TestAnalysisAndSimulation/csv_visual/boxplots.py" />
+        <option value="$PROJECT_DIR$/CodingInterviews/interview1.py" />
+        <option value="$PROJECT_DIR$/Neuro-Evolution/progression/simulation.py" />
+        <option value="$PROJECT_DIR$/chess-AI/chessboard.py" />
+        <option value="$PROJECT_DIR$/chess-AI/minmaxsearch.py" />
+        <option value="$PROJECT_DIR$/chess-AI/drawing.py" />
+        <option value="$PROJECT_DIR$/chess-AI/game.py" />
+        <option value="$PROJECT_DIR$/chess-AI/pieces.py" />
+        <option value="$PROJECT_DIR$/Signals/fourier.py" />
+        <option value="$PROJECT_DIR$/Signals/CFT.py" />
+        <option value="$USER_HOME$/Downloads/SC-FEGAN-master/model.py" />
+        <option value="$PROJECT_DIR$/Signals/DFT.py" />
+        <option value="$PROJECT_DIR$/TestAnalysisAndSimulation/anova.py" />
+        <option value="$PROJECT_DIR$/../../../max/Documents/TU Delft/Control Theory/E_test_1.py" />
+        <option value="$PROJECT_DIR$/Trading/testing.py" />
+        <option value="$PROJECT_DIR$/Multiagent-Systems/mothership.py" />
+        <option value="$PROJECT_DIR$/Aircraft-Path-Optimization/A_star.py" />
+        <option value="$PROJECT_DIR$/Multiagent-Systems/cloud_kitchen.py" />
+        <option value="$PROJECT_DIR$/Aircraft-Path-Optimization/p_tree.py" />
+        <option value="$USER_HOME$/Downloads/ws2_19Prep.py" />
+        <option value="$PROJECT_DIR$/Multiagent-Systems/testing.py" />
+        <option value="$PROJECT_DIR$/Computational-Modelling/order_accuracy.py" />
+        <option value="$USER_HOME$/Downloads/ws2_19InClass.py" />
+        <option value="$PROJECT_DIR$/Computational-Modelling/optimizer.py" />
+        <option value="$PROJECT_DIR$/Computational-Modelling/ws2_19InClass.py" />
+        <option value="$PROJECT_DIR$/Air-Mobility/cloud_kitchen.py" />
+        <option value="$PROJECT_DIR$/Autoencoder/autoencoder.py" />
+        <option value="$PROJECT_DIR$/Neuro-Evolution/plotter.py" />
+        <option value="$PROJECT_DIR$/Neuro-Evolution/neural_network.py" />
+        <option value="$PROJECT_DIR$/Neuro-Evolution/genetic_algorithm.py" />
+        <option value="$PROJECT_DIR$/Neuro-Evolution/vehicle.py" />
+        <option value="$PROJECT_DIR$/Neuro-Evolution/neat.py" />
+        <option value="$PROJECT_DIR$/Neuro-Evolution/simulation.py" />
+        <option value="$PROJECT_DIR$/Autoencoder/selfdrive.py" />
+        <option value="$PROJECT_DIR$/Air-Mobility/cloud_kitchen_trajectory.py" />
+        <option value="$PROJECT_DIR$/Autoencoder/roads.py" />
+        <option value="$PROJECT_DIR$/Autoencoder/PCA.py" />
+        <option value="$USER_HOME$/Downloads/FaceEditor-master/face_edit.py" />
+        <option value="$PROJECT_DIR$/Autoencoder/vae_mlp/vaeblog.py" />
+        <option value="$USER_HOME$/Downloads/BVAE-tf-master/bvae/ae.py" />
+        <option value="$PROJECT_DIR$/Computational-Modelling/FEM.py" />
+        <option value="$PROJECT_DIR$/Autoencoder/VAE.py" />
+        <option value="$PROJECT_DIR$/../../../SID DrW/Documents/Code-Projects/TestAnalysisAndSimulation/frequency_domain.py" />
+        <option value="$USER_HOME$/Downloads/va-sampler-master/analytics_server/va_mnist.py" />
+        <option value="$USER_HOME$/Downloads/va-sampler-master/analytics_server/va_fashion.py" />
+        <option value="$PROJECT_DIR$/Autoencoder/convoluted_VAE.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Code-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Air-Mobility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Autoencoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Computational-Modelling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Neuro-Evolution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Orbital-Mechanics-Optimization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="TestAnalysisAndSimulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxma\Documents\Code-Projects\Signals" />
+      <recent name="C:\Users\maxma\Documents\Code-Projects\chess-AI\pictures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.convoluted_VAE">
+    <configuration name="FEM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Computational-Modelling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Computational-Modelling/FEM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VAE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Autoencoder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Autoencoder/VAE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ae" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/BVAE-tf-master/bvae" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/BVAE-tf-master/bvae/ae.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convoluted_VAE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Autoencoder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Autoencoder/convoluted_VAE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="va_fashion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/va-sampler-master/analytics_server" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/va-sampler-master/analytics_server/va_fashion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.convoluted_VAE" />
+        <item itemvalue="Python.va_fashion" />
+        <item itemvalue="Python.VAE" />
+        <item itemvalue="Python.FEM" />
+        <item itemvalue="Python.ae" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bac687e-61e9-45e2-ba4d-7282d514cb81" name="Default Changelist" comment="" />
+      <created>1556819875436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556819875436</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110964336" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2824632" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892906" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CodingInterviews/interview1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestAnalysisAndSimulation/anova.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../max/Documents/TU Delft/Control Theory/E_test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../max/Documents/TU Delft/Control Theory/E_test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Signals/fourier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Signals/DFT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/SC-FEGAN-master/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Signals/CFT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding>
+            <element signature="e#82#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/TriFEMLibD_Prep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7876">
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trading/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="37" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/SC-FEGAN-master/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aircraft-Path-Optimization/A_star.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2056">
+          <caret line="169" column="2" selection-start-line="169" selection-end-line="169" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiagent-Systems/cloud_kitchen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="164" column="8" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiagent-Systems/mothership.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/TriFEMLibD_InClass.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiagent-Systems/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational-Modelling/order_accuracy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ws2_19InClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Orbital-Mechanics-Optimization/orbitalOptimization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="138" column="24" selection-start-line="138" selection-end-line="139" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ws2_19Prep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="115" column="33" selection-start-line="115" selection-end-line="116" />
+          <folding>
+            <element signature="e#516#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ws2_19Prep (1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="94" column="27" selection-start-line="94" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational-Modelling/ws2_19InClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="e#822#833#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational-Modelling/optimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Air-Mobility/cloud_kitchen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="363" column="22" lean-forward="true" selection-end-line="419" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aircraft-Path-Optimization/p_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="204" selection-start-line="204" selection-end-line="206" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chess-AI/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neuro-Evolution/genetic_algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neuro-Evolution/plotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#48#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neuro-Evolution/vehicle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="63" column="84" selection-start-line="63" selection-start-column="84" selection-end-line="63" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neuro-Evolution/neat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="53" column="18" lean-forward="true" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+          <folding>
+            <element signature="e#48#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neuro-Evolution/neural_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoencoder/selfdrive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="117" column="33" lean-forward="true" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="33" />
+          <folding>
+            <element signature="e#194#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neuro-Evolution/simulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-413">
+          <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#48#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoencoder/autoencoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="161" lean-forward="true" selection-start-line="164" selection-end-line="170" selection-end-column="17" />
+          <folding>
+            <element signature="e#48#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/alignedCelebFaces-master/code/final_face_slider_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chess-AI/drawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+          <folding>
+            <element signature="e#48#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chess-AI/chessboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="113" column="37" selection-start-line="113" selection-end-line="114" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestAnalysisAndSimulation/frequency_domain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3864">
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoencoder/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+          <folding>
+            <element signature="e#12#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/alignedCelebFaces-master/final_face_slider_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="136" column="78" selection-start-line="136" selection-start-column="73" selection-end-line="136" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/FaceEditor-master/face_edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoencoder/vae_mlp/vaeblog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/BVAE-tf-master/bvae/ae.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+          <folding>
+            <element signature="e#91#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational-Modelling/FEM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Air-Mobility/cloud_kitchen_trajectory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6239">
+          <caret line="367" column="40" selection-start-line="367" selection-end-line="368" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoencoder/roads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="16" />
+          <folding>
+            <element signature="e#48#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/va-sampler-master/analytics_server/va_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="24" column="58" lean-forward="true" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../SID DrW/Documents/Code-Projects/TestAnalysisAndSimulation/frequency_domain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2334">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoencoder/VAE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/va-sampler-master/analytics_server/va_fashion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+          <folding>
+            <element signature="e#532#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autoencoder/convoluted_VAE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-731">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

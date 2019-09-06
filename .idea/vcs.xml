@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ATC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Air-Mobility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aircraft-Path-Optimization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Neuro-Evolution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Orbital-Mechanics-Optimization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Signals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestAnalysisAndSimulation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thermal-Pictures-Recognition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chess-AI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trafficlanding" vcs="Git" />
+  </component>
+</project>
